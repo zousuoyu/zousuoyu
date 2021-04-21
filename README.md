@@ -1,6 +1,5 @@
 - 😉 Hi, I’m a Data Scientist with Ph.D. & M.S. in Mechanical Engineering.
-- 😆 I am currently learn to improve my data analysis and software development skills.
-- 🥳 I will try to share more of my data analysis and software development projects.
+- 🥳 I will share my data analysis and software development projects.
 - 😘 Cannot wait to enjoy the journey and make new friends on Github!!!
 
 <!---
